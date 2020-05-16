@@ -17,10 +17,11 @@ Things I Struggled With
 Out of everything, the part I struggled with the most was getting the project created, in terms of files and such. It sounds funny but using github to create a repository, constantly updating the "master" repository, and having to save my project in a specific way was all new to me. I have no doubt it knowing this will help me in the future but it was still hard to get a grasp as well as frustrating because we were spoiled by the browser Learn IDE since it conveniently saved everything for us. I slowly got used to it but the biggest hurdle was definitely first creating it.
 
 Ah scraping, I sure love how one-dimensional it is, right. Okay sarcasm out of the way, I expected scraping to give me trouble purely for the fact that I'm not used to it nor have I done it enough to feel super comfortable. I probably have to give some credit to the website I used because each manga has a unique url with information formatted in the same way as the rest of the manga urls. That made it very convenient for scraping the same type of data for every manga in one fell swoop. To my surprise, the scraping process as a whole wasn't as hard as I expected, except one part with getting certain urls. This issue was I either scraped one specific url that I didn’t intend to or I scraped each one into one object and that caused other issues. With some help, I was able to access each url individually by using `.search` on the appropriate class/selectors and going through every url with `.each`. 
+
 ```
 doc.search("div.g-3.g-3--md.mar-b-lg a").each do |div| #searches through every url
             if div.attributes["href"].value.include?(MangaScraper.change_into_href(manga_name)) 
-```                                                                                  ^ above method changes a name like One Piece into one-piece
+```
 
 Last Thoughts
 
