@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "We have so much power now…"
-date:       2020-07-13 03:13:28 +0000
+date:       2020-07-12 23:13:29 -0400
 permalink:  we_have_so_much_power_now
 ---
 
@@ -36,5 +36,5 @@ Inside /review/index.erb
 
 Final Thoughts
 
-I know this is the stepping stone to begin working with rails but this part of the journey is important because if we know what our program is doing it gives us more power to add the features we want and so on. Of course we don’t know everything about the gems we use but it would be inefficient if we don’t have one common resource we can all contribute to. There were days I wasn’t interested in the lessons throughout the mod but it’s all about pushing forward for the long run.
+I know this is the stepping stone to begin working with rails but this part of the journey is important because if we know what our program is doing it gives us more power to add the features we want and so on. Of course we don’t know everything about the gems we use but it would be inefficient if we don’t have one common resource we can all contribute to. There were days I wasn’t interested in the lessons throughout the mod but it’s all about pushing forward for the long run.      
 
