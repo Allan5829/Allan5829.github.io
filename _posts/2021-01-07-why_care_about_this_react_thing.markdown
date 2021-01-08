@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why care about this “React” thing?"
-date:       2021-01-08 00:16:30 +0000
+date:       2021-01-07 19:16:31 -0500
 permalink:  why_care_about_this_react_thing
 ---
 
