@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "When One Bug Resolves Another Appears"
-date:       2021-01-25 05:36:57 +0000
+date:       2021-01-25 00:36:57 -0500
 permalink:  when_one_bug_resolves_another_appears
 ---
 
