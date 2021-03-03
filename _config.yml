@@ -1,11 +1,11 @@
 # Site settings
 author: Allan Farca
-title: 
+title: Allan's Tech Journey
 header-img: img/home-bg.png
 email: allan.farca@gmail.com
 copyright_name: Allan Farca
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Test subtitle
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Allan5829
